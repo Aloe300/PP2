@@ -5,7 +5,7 @@ x = 1.5
 print(type(x))
 
 
-x = True 
+x = False 
 print(type(x)) #bool
 
 
