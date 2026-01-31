@@ -14,7 +14,7 @@ z = "c"
 print(x + y + z)
 
 
- x = "Alim"
+x = "Alim"
 
 def myfunc():
   global x
