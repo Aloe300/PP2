@@ -23,3 +23,10 @@ for a in range(6):
         continue
     print(a) 
     
+
+
+
+
+
+
+
